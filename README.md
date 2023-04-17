@@ -31,6 +31,7 @@ https://github.com/EnzoJuarez7/PI_MLOpsReviews/blob/main/ETL.ipynb
 
 
 #### Se realiza un EDA máas completo  y extenso con los datos ya limpios.
+https://github.com/EnzoJuarez7/PI_MLOpsReviews/blob/main/EDA.ipynb
 
 #### Realizar las siguientes consultas a consumir en la API:
 
