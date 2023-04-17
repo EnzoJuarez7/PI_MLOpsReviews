@@ -54,3 +54,6 @@ https://github.com/EnzoJuarez7/PI_MLOpsReviews/blob/main/Consultas_recomendacion
 
 #### Se procede a generar el deploy de la API en Render
 https://mlopsreviews-deploy.onrender.com/docs#/
+
+## Video 
+
