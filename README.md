@@ -56,4 +56,4 @@ https://github.com/EnzoJuarez7/PI_MLOpsReviews/blob/main/Consultas_recomendacion
 https://mlopsreviews-deploy.onrender.com/docs#/
 
 ## Video 
-
+https://drive.google.com/drive/folders/1s-QSdCp3gh1WEG1z5wKfchN5RQMLflOv?usp=sharing
